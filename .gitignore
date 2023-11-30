@@ -1,3 +1,6 @@
 data
 *.pth
 *.zip
+opt-1.3b
+wikitext
+pile-val-backup
