@@ -1,3 +1,4 @@
-[submodule "tinychat-tutorial"]
-	path = Lab5-Optimize LLM on edge device/tinychat-tutorial
-	url = https://github.com/mit-han-lab/tinychat-tutorial
+
+[submodule "Lab5-Optimize LLM on edge device/MIT6.5949-Lab5-tinychat"]
+	path = Lab5-Optimize LLM on edge device/MIT6.5949-Lab5-tinychat
+	url = https://github.com/CalebDu/MIT6.5949-Lab5-tinychat.git
