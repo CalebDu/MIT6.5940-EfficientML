@@ -1,0 +1,5 @@
+CompileFlags:
+#  Add: [
+#    "-I./Lab5-Optimize LLM on edge device/MIT6.5949-Lab5-tinychat/transformer/include/"
+#  ]
+  CompilationDatabase: "Lab5-Optimize LLM on edge device/MIT6.5949-Lab5-tinychat/transformer/"
